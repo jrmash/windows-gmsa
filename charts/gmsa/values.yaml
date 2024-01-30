@@ -36,6 +36,7 @@ global:
   systemDefaultRegistry: ""
 
 affinity: {}
+deploymentAnnotations: {}
 nodeSelector: {}
 podDisruptionBudget:
   enabled: false
