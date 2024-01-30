@@ -1,13 +1,13 @@
 apiVersion: v2
-appVersion: 0.8.0
+appVersion: 0.8.0-patch.1
 description: Windows GMSA Configuration
 keywords:
-- Windows
-- Windows GMSA
-- GMSA
-- Active Directory
+  - Windows
+  - Windows GMSA
+  - GMSA
+  - Active Directory
 name: gmsa
 sources:
-- https://github.com/kubernetes-sigs/windows-gmsa
+  - https://github.com/kubernetes-sigs/windows-gmsa
 type: application
-version: 0.8.0
+version: 0.8.0-patch.1
